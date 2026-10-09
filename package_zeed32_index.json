@@ -3,10 +3,10 @@
     {
       "name": "ZEED32",
       "maintainer": "ZEED32",
-      "websiteURL": "https://github.com/USER/ZEED32-board",
+      "websiteURL": "https://github.com/sutidate/ZEED32-board",
       "email": "you@email.com",
       "help": {
-        "online": "https://github.com/USER/ZEED32-board"
+        "online": "https://github.com/sutidate/ZEED32-board"
       },
       "platforms": [
         {
@@ -14,7 +14,7 @@
           "architecture": "esp32",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/USER/ZEED32-board/releases/download/v1.0.0/zeed32-1.0.0.zip",
+          "url": "https://github.com/sutidate/ZEED32-board/releases/download/v1.0.0/zeed32-1.0.0.zip",
           "archiveFileName": "zeed32-1.0.0.zip",
           "checksum": "SHA-256:ใส่แฮชที่นี่ไม่มีช่องว่าง",
           "size": "000000",
